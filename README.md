@@ -1,3 +1,5 @@
 # Recent_projects
 
-## The Notebook "Prediction of Economic Performance" is an example of program which is used to predict the trajectory of gross operating surplus over sales of some entreprises 
+
+
+These Notebooks present are part of my recent projects with Dataiku for my Company. I Just put the Code, which may be helpful, but one may need to have Dataiku in order to run them. 
